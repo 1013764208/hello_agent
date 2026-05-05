@@ -1,0 +1,11 @@
+# 密钥与本地环境（切勿提交）
+.env
+*.env
+!.env.example
+
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+.DS_Store
